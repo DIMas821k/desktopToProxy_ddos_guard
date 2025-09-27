@@ -1,0 +1,1 @@
+pip install Flask PyJWT mysql-connector-python werkzeug
